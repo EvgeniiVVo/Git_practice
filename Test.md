@@ -40,3 +40,6 @@
 ## Семинар 2
 
 git log --graph
+git branch - вывести все ветки
+git log - выводит коммиты
+git merge - слияние веток
